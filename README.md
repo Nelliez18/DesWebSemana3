@@ -175,3 +175,91 @@ function diaDaSemana(numero) {
 console.log("Dia 3:", diaDaSemana(3));
 console.log("Dia 8:", diaDaSemana(8));
 ```
+Saida:
+## --- BLOCO 1: FUNDAMENTOS E VARIAVEIS ---
+Pontos atuais: 60
+Erro gerado: TypeError
+Motivo do erro: Variaveis declaradas com 'const' sao de leitura exclusiva e nao admitem reatribuicao apos a inicializacao.
+Tipo de 'texto': string
+Tipo de 'numero': number
+Tipo de 'ligado': boolean
+Tipo de 'naoDefinido': undefined
+Tipo de 'nulo': object
+Template Literal: O desenvolvedor Carlos esta estudando Node.js hoje.
+Concatenacao (+): O desenvolvedor Carlos esta estudando Node.js hoje.
+
+--- BLOCO 2: FUNCOES ---
+Chamada com Hoisting (idade 20): true
+Erro gerado: ReferenceError
+Motivo do erro: Funcoes de expressao atribuidas a 'const' ou 'let' nao sofrem hoisting da mesma forma e nao podem ser acessadas antes de sua declaracao.
+Dobro (Declarada) de 5: 10
+Dobro (Expressao) de 5: 10
+Dobro (Arrow) de 5: 10
+Chamada sem argumentos (usa padrao n=1): 2
+Chamada com argumento 7: 14
+
+--- BLOCO 3: CONTROLE DE FLUXO ---
+Nota 7.5: Aprovado
+Nota 4.0: Reprovado
+Semaforo Amarelo: Atencao
+Tabuada do 5:
+  5 x 1 = 5
+  5 x 2 = 10
+  5 x 3 = 15
+  5 x 4 = 20
+  5 x 5 = 25
+  5 x 6 = 30
+  5 x 7 = 35
+  5 x 8 = 40
+  5 x 9 = 45
+  5 x 10 = 50
+Contagem Regressiva:
+  5
+  4
+  3
+  2
+  1
+Par ou Impar (Usando laço FOR):
+  Numero 1 e impar
+  Numero 2 e par
+  Numero 3 e impar
+  Numero 4 e par
+  Numero 5 e impar
+  Numero 6 e par
+  Numero 7 e impar
+  Numero 8 e par
+  Numero 9 e impar
+  Numero 10 e par
+  Numero 11 e impar
+  Numero 12 e par
+  Numero 13 e impar
+  Numero 14 e par
+  Numero 15 e impar
+  Numero 16 e par
+  Numero 17 e impar
+  Numero 18 e par
+  Numero 19 e impar
+  Numero 20 e par
+Par ou Impar (Usando laço WHILE):
+  Numero 1 e impar
+  Numero 2 e par
+  Numero 3 e impar
+  Numero 4 e par
+  Numero 5 e impar
+  Numero 6 e par
+  Numero 7 e impar
+  Numero 8 e par
+  Numero 9 e impar
+  Numero 10 e par
+  Numero 11 e impar
+  Numero 12 e par
+  Numero 13 e impar
+  Numero 14 e par
+  Numero 15 e impar
+  Numero 16 e par
+  Numero 17 e impar
+  Numero 18 e par
+  Numero 19 e impar
+  Numero 20 e par
+Dia 3: Terca-feira
+Dia 8: Numero invalido. Digite um valor entre 1 e 7.
