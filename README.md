@@ -1,4 +1,4 @@
-Entregável de Desenvolvimento Web –  Introdução ao JavaScript – Semana 03
+# Entregável de Desenvolvimento Web –  Introdução ao JavaScript – Semana 03
 ```js
 // BLOCO 1 - FUNDAMENTOS E VARIAVEIS
 
