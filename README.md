@@ -175,8 +175,9 @@ function diaDaSemana(numero) {
 console.log("Dia 3:", diaDaSemana(3));
 console.log("Dia 8:", diaDaSemana(8));
 ```
-Saida:
-## --- BLOCO 1: FUNDAMENTOS E VARIAVEIS ---
+# Saida:
+```text
+--- BLOCO 1: FUNDAMENTOS E VARIAVEIS ---
 Pontos atuais: 60
 Erro gerado: TypeError
 Motivo do erro: Variaveis declaradas com 'const' sao de leitura exclusiva e nao admitem reatribuicao apos a inicializacao.
@@ -263,3 +264,4 @@ Par ou Impar (Usando laço WHILE):
   Numero 20 e par
 Dia 3: Terca-feira
 Dia 8: Numero invalido. Digite um valor entre 1 e 7.
+```
